@@ -12,8 +12,10 @@ The controller for the ST-4 pulses is not implented from the non-GUI version.
 
 But so far, I run out of time for this project.
 
-Prerequisite
+Prerequisite:
+
 pip3 install zwoasi
+
 pip install zwoasi
 
 Copy Zwo-Asi-lib
