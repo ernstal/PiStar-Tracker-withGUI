@@ -19,3 +19,6 @@ pip install zwoasi
 Copy Zwo-Asi-lib
 
 Download asi-sdk and copy the armv7 dynamic lib to /lib/zwoasi/armv7/ to use it with asi.init("/lib/zwoasi/armv7/libASICamera2.so")
+
+SDK download link:
+https://astronomy-imaging-camera.com/software-drivers
