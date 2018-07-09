@@ -6,7 +6,7 @@ The GUI combines the opencv-video stream and a pygame window with buttons
 
 The video stream is read via ZWO-ASI-SDK in a separated thread.
 
-In order to a compact device, the ST-4 commands should be implemented via the ZWO-ASI-SDK, instead of using the GPIOs of the raspberry.
+In order to a compact device, the ST-4 commands should be implemented via the ZWO-ASI-SDK, instead of using the GPIOs of the raspberry (ASI_GUIDE_DIRECTION).
 
 The controller for the ST-4 pulses is not implented from the non-GUI version.
 
